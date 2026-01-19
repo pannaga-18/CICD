@@ -6,6 +6,8 @@ func Add(a, b int) int {
 	return a + b
 }
 
+
+// Main Entry point
 func main() {
 	fmt.Println("CI/CD Demo: 1 + 2 =", Add(1, 2))
 }
